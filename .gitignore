@@ -12,3 +12,7 @@ Creation and Replication/repl.json
 Creation and Replication/secDoc.json
 
 Creation and Replication/secDocNew.json
+
+Monitor Replication/monitor_replication.ipynb
+
+Monitor Replication/.*
