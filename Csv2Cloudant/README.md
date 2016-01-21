@@ -26,5 +26,7 @@
 * In the code the delimiter for CSV files is set to comma separated, this can be changed by editing this line
 
 ```python
-reader = csv.DictReader(f, skipinitialspace=True, quotechar='"', delimiter=',') ```
-* You will of course need python to run this script 
+reader = csv.DictReader(f, skipinitialspace=True, quotechar='"', delimiter=',')
+```
+
+* You will of course need python to run this script
